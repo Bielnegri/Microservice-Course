@@ -1,13 +1,13 @@
-package com.ms.hrapigatewayzuul;
+package com.ms.hrapigateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HrApiGatewayZuulApplication {
+public class HrApiGatewayApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(HrApiGatewayZuulApplication.class, args);
+        SpringApplication.run(HrApiGatewayApplication.class, args);
     }
 
 }
